@@ -1,6 +1,5 @@
 name: setting up environment
 
-
 on: [push]
     
 env:
