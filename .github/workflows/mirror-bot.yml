@@ -1,6 +1,6 @@
 name: setting up environment
 
-on: [push]
+#on: [push]
     
 env:
  username: iaman1998
